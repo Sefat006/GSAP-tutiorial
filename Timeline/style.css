@@ -1,0 +1,33 @@
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    
+}
+
+#nav{
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+#part2{
+    display: flex;
+    gap: 50px;
+}
+
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    white-space: nowrap;
+}
