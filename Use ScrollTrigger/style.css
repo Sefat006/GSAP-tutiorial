@@ -1,0 +1,29 @@
+#page1{
+    height: 1000px;
+    width: 100%;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page2{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(149, 195, 213);display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page3{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(14, 68, 89);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
